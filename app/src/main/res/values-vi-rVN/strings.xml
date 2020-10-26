@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealtimeUserManager</string>
+    <string name="name"><font size="14">Họ tên</font></string>
+    <string name="format_dmy"><font size="14">dd/mm/yyyy</font></string>
+    <string name="gender">Giới tính</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="address"><font size="14">Địa chỉ</font></string>
+    <string name="email"><font size="14">Email</font></string>
+    <string name="birthday">Ngày sinh</string>
+    <string name="empty_image">Chưa chọn ảnh</string>
+    <string name="upload_image_failure">Tải ảnh lên thất bại</string>
+    <string name="empty_name">Tên không được bỏ trống</string>
+    <string name="empty_birthday">Chưa chọn ngày sinh</string>
+    <string name="empty_gender">Chưa chọn giới tính</string>
+    <string name="empty_address">Chưa nhập địa chỉ</string>
+    <string name="empty_email">Chưa nhập email</string>
+    <string name="insert_user_fail">Thêm người dùng thất bại</string>
+    <string name="add">Thêm</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="insert_user_success">Thêm thành công</string>
+    <string name="edit_user_success">Sửa thông tin thành công</string>
+    <string name="edit_user_fail">Sửa thông tin thất bại</string>
+    <string name="delete_user_fail">Xóa người dùng thất bại</string>
+    <string name="delete_user_success">Xóa người dùng thành công</string>
+    <string name="deleteing">Đang xóa</string>
+    <string name="loading">Đang tải</string>
+    <string name="uploading_image">Đang tải lên ảnh</string>
+    <string name="saving_database">Đang lưu vào hệ thống</string>
+    <string name="wrong_email_format">Email sai định dạng</string>
+    <string name="save">Lưu</string>
+    <string name="find_name">Nhập tên ai đó</string>
+    <string name="press_to_close_app">Ấn lần nữa để thoát</string>
+    <string name="delete_user">Xóa người dùng</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="message_delete_user">Người dùng này sẽ bị xóa ra khỏi hệ thống</string>
+</resources>
